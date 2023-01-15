@@ -139,6 +139,7 @@ MonoBehaviour:
   moveMaxSpeed: 7
   jumpPower: 20
   direction: {x: 0, y: 0}
+  canJump: 0
 --- !u!70 &4768272752694850424
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
